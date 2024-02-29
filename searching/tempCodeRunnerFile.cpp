@@ -1,0 +1,1 @@
+  // if(arr[targetidx-1]==1) targetidx--;
